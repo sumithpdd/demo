@@ -1,28 +1,43 @@
 {
-  "stocks": [
-    {
-      "symbol" : "GOOG",
-      "description" : "Google Innovation Media",
-      "price": 1080,
-      "change": "-0.24"
-    },
-    {
-      "symbol": "MSFT",
-      "description": "Microsoft Cooporation",
-      "price": 60,
-      "change": "+3.45"
-    },
-    {
-      "symbol": "FB",
-      "description": "Facebook Social Media",
-      "price": 220,
-      "change": "-1.56"
-    },
-    {
-      "symbol": "AMAZON",
-      "description": "Amazon Everything Store ",
-      "price": 400,
-      "change": "+6.56"
-    }
-  ]
+	"stocks": [{
+			"symbol": "GOOG",
+			"description": "Google Innovation Media",
+			"price": 1080,
+			"change": "-0.24"
+		},
+		{
+			"symbol": "MSFT",
+			"description": "Microsoft Cooporation",
+			"price": 60,
+			"change": "+3.45"
+		},
+		{
+			"symbol": "FB",
+			"description": "Facebook Social Media",
+			"price": 220,
+			"change": "-1.56"
+		},
+		{
+			"symbol": "AMAZON",
+			"description": "Amazon Everything Store ",
+			"price": 400,
+			"change": "+6.56"
+		}
+	],
+	"tasks": [{
+			"id": "1",
+			"title": "Task from http",
+			"details": "Demo task from http",
+			"date": "01/01/2020",
+			"completed": false
+		},
+		{
+			"id": "2",
+			"title": "Task from http 2",
+			"details": "Demo task from http 2",
+			"date": "01/01/2020",
+			"completed": false
+		}
+	]
+
 }
