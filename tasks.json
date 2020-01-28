@@ -1,0 +1,19 @@
+ 
+{
+"tasks": [
+{
+"id": "1",
+"title": "Task from http",
+"details": "Demo task from http",
+"date": "01/01/2020",
+"completed":false
+},
+{
+"id": "2",
+"title": "Task from http 2",
+"details": "Demo task from http 2",
+"date": "01/01/2020",
+"completed":false
+}
+]
+}
